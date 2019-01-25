@@ -8,4 +8,3 @@ do
         echo "$i is locked or not empty "
     fi
 done
-
