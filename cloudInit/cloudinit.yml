@@ -133,3 +133,5 @@ packages:
  - docker-ce
  - docker-ce-cli
  - containerd.io
+ bootcmd :
+ - sudo usermod -a -G docker farez
